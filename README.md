@@ -16,5 +16,5 @@
 
 #### Languages and tools:
 
-<img width="629" alt="image" src="https://user-images.githubusercontent.com/87144531/160684807-ca592544-49b1-48c4-ae26-a9e30b028862.png">
+<img width="840" alt="image" src="https://user-images.githubusercontent.com/87144531/160685241-be767c3c-7b6f-40da-92ff-49efabf4d892.png">
 
