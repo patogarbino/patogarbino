@@ -1,4 +1,10 @@
 ![image](https://user-images.githubusercontent.com/87144531/160672574-7b122f18-2645-4973-9ea0-5d15a181a7f2.png)
+
+
+### I'm a passionate Data Scientist and Engineer
+---
+
+
 <!--
 **patogarbino/patogarbino** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
